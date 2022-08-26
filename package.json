@@ -1,0 +1,26 @@
+{
+  "name": "hackathon_incres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavya255/hackathon_incres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavya255/hackathon_incres/issues"
+  },
+  "homepage": "https://github.com/kavya255/hackathon_incres#readme",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.13"
+  }
+}
