@@ -24,7 +24,7 @@ import {
       }}
     >
       <TextComponent
-        label="SRI KRISHNA COLLEGE OF ENGINEERING AND   TECHNOLOGY"
+        label="SRI KRISHNA COLLEGE OF ENGINEERING AND   kdskdkdkskdsk TECHNOLOGY"
         styleProps={{
           fontSize: "16px",
           color:"#5375E2",
