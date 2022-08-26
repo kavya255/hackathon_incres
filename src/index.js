@@ -1,16 +1,9 @@
 import React from "react";
-//import { ReactDOM } from "react";
+import { ReactDOM } from "react";
 import {TextComponent}
 //import ReactDOM from "react-dom";
-import {
-  TextComponent,
-  InputComponent,
-  Box,
-  DatePick,
-  Dropdown,
-  Attatchments,
-} from "./components";
-//import GlobalStyle from "./globalStyles";
+import {  } from "";  { TextComponent} from "./components";
+import GlobalStyle from "./globalStyles";
  export function Header() {
   return (
     <div
@@ -24,7 +17,7 @@ import {
       }}
     >
       <TextComponent
-        label="SRI KRISHNA COLLEGE OF ENGINEERING AND   kdskdkdkskdsk TECHNOLOGY"
+        label="SRI KRISHNA COLLEGE OF ENGINEERING AND   TECHNOLOGY"
         styleProps={{
           fontSize: "16px",
           color:"#5375E2",
