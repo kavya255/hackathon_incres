@@ -4,11 +4,11 @@ import {TextComponent}
 //import ReactDOM from "react-dom";
 import {
   TextComponent,
-  // //InputComponent,
-  // Box,
-  // DatePick,
-  // Dropdown,
-  // Attatchments,
+  InputComponent,
+  Box,
+  DatePick,
+  Dropdown,
+  Attatchments,
 } from "./components";
 //import GlobalStyle from "./globalStyles";
  export function Header() {
